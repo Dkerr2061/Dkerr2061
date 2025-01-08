@@ -17,8 +17,8 @@ Hello! I'm David Kerr, a Web-Developer with a knack for building user-focused, s
 ---
 
 # 💻 Tech Stack:
-<div style="background-color: #f0f0f0; padding: 10px;">
-<img align="left" alt="Astro" width="30px" style={{background-color: "white"}} src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<div style="background-color: #f0f0f0; padding: 5px;">
+<img align="left" alt="Astro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
