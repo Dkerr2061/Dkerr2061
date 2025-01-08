@@ -16,7 +16,7 @@ Hello! I'm David Kerr, a Web-Developer with a knack for building user-focused, s
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="background-color: #f0f0f0; padding: 5px;">
 <img align="left" alt="Astro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -39,10 +39,9 @@ Hello! I'm David Kerr, a Web-Developer with a knack for building user-focused, s
 
 
         
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+## 📊 Stats:
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Dkerr2061&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkerr2061&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
