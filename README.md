@@ -1,54 +1,71 @@
-# 🧗🏻‍♂️ David Kerr:
-**`Full-Stack Web-Developer`**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dkerr2061.Dkerr2061" />
 
-Hello! I'm David Kerr, a Web-Developer with a knack for building user-focused, scalable applications. Coming from a firefighting background, I bring strong teamwork, communication, and problem-solving skills to the tech world.
+<h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+David+Kerr!;" />
+</h1>
 
-## 📸 Quick Snap-Shot:
-- I'm currently working on: Revamping the Orlando developer community website (ODevs) using Astro.js.<br>I'm looking to collaborate on: Web development, API--driven projects or anything fun!
-- I'm looking for help with: Learning advanced database management with MySQL and understanding cloud technologies.
-- I'm currently learning: TypeScript for type safety and improving my MySQL skills.
-- Ask me about: My transition from firefighting to software engineering and how it shaped my problem-solving and teamwork skills.
-- Fun Fact: I'm a car and motorcycle enthusiast who will probably talk your ear off about things with wheels.
+<h3 align="center">
+        A Full-Stack Web Developer with a knack for building user-focused, scalable applications. Coming from a firefighting background, I bring strong teamwork, communication, and problem-solving skills to the tech world.
+</h3>
+<br/>
 
+### 📸 Quick Snap-Shot:
+🧑🏻‍💻 **I'm currently working on:** Revamping the Orlando developer community website (ODevs) using Astro.js.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1192881716067569705/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-kerr-358b33297/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kerrky) 
+🌱 **I'm looking to collaborate on:** Web development, API--driven projects or anything fun!
 
+📖 **I'm currently learning:** TypeScript for type safety and improving my MySQL skills.
 
+❓ **Ask me about:** My transition from firefighting to software engineering and how it shaped my problem-solving and teamwork skills.
 
-## 💻 Tech Stack:
-<div style="background-color: #f0f0f0; padding: 5px;">
-<img align="left" alt="Astro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-<img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Tailwinds" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
-<img align="left" alt="Post" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+⚡️ **Fun Fact:** I'm a car and motorcycle enthusiast who will probably talk your ear off about things with wheels.
+
+<div align="center"> 
+  <a href="mailto:dkerr2061@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-kerr-358b33297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://davidkerr-portfolio.vercel.app/">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
 </div>
-<br><br>
-
-
-        
-## 📊 Stats:
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dkerr2061&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dkerr2061&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+        <a>
+    <img src="https://skillicons.dev/icons?i=react,python,javascript,typescript,html,css,github,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=astro,mysql,flask,postman,vite,vercel,sqlite,postgresql,vscode,git" />
+        </a>        
+</div>
 
+<br/>
+
+---
+
+<h2 align="center">📊 Stats</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dkerr2061&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkerr2061&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+<br/><br/>
+
+---
+
+<details>
+        <summary><h3>👨🏻‍🚒 My Coding Journey</h3></summary>
+        <p>For nine years, I worked as a firefighter, where I learned how to be an effective part of a team. Every member had a specific role, and people depended on my contribution, trusting that I would get the job done. Whether it was rope rescues, confined space rescues, or extractions, every call was different, and I had to adapt quickly to the task in front of me. Problem-solving was critical—I broke down complex challenges into smaller components, ensuring each piece was executed correctly to solve the bigger problem successfully. That experience also taught me that failure is an essential part of learning. Instead of being discouraged, I treated failures as opportunities to grow and excel.</p>
+
+<p>When I transitioned into software engineering, I carried those lessons with me. I started with JavaScript, building simple games like rock-paper-scissors on the DOM, and quickly realized how much more there was to explore. I expanded my skills, learning React to create dynamic user interfaces and Python to handle back-end development. I embraced Flask for building RESTful APIs and used SQLAlchemy to manage databases effectively.
+As I grew, I added TypeScript to ensure my code was robust and began working with MySQL to write efficient queries, deepening my understanding of relational databases. What started as small websites evolved into full-scale applications, where I could design and implement both the front and back end, creating scalable and functional systems.</p>
+       
+<p>Now, I’m continuing to build on that foundation by expanding my toolkit to include frameworks like Astro, diving deeper into SEO strategies, and perfecting my ability to create reactive and responsive designs. My journey has been one of continuous learning, applying problem-solving skills to new challenges, and constantly striving to build impactful and reliable applications.</p>
+</details>
